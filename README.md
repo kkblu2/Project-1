@@ -26,7 +26,7 @@ This Python script provides a simple yet powerful way to encrypt and decrypt fil
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/file-encryption-tool.git
+   git clone 
    ```
 
 2. Install the required library:
