@@ -79,4 +79,3 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ```
 
-This README provides a comprehensive overview of your project, including its features, installation instructions, usage guide, and important security notes. The use of emojis and formatted sections makes it visually appealing and easy to read. Remember to replace "yourusername" with your actual GitHub username in the URLs.
